@@ -1,2 +1,2 @@
 #!/bin/bash
-telnet https://asciimation.co.nz/http://blinkenlights.nl
+telnet telnet towel.blinkenlights.nl
